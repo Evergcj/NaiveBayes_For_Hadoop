@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+	<property>
+		<name>FileCountOutput</name>
+		<value>FileCountOutput</value></property>
+	<property>
+		<name>FileCountOutputPrefix</name>
+		<value>Class</value></property>
+	<property>
+		<name>TrainWordCountOutput</name>
+		<value>TrainWordCountOutput</value></property>
+	<property>
+		<name>TrainWordCountOutputPrefix</name>
+		<value>Class</value></property>
+	<property>
+		<name>TestWordCountOutput</name>
+		<value>TestWordCountOutput</value></property>
+	<property>
+		<name>TestWordCountOutputPrefix</name>
+		<value>File</value></property>
+	<property>
+		<name>TestResultOutput</name>
+		<value>TestResultOutput</value></property>
+	<property>
+		<name>FileSystem</name>
+		<value>hdfs://localhost:9001</value>
+	</property>
+</configuration>
